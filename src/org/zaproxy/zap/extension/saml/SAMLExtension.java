@@ -31,7 +31,7 @@ public class SAMLExtension extends ExtensionAdaptor {
     public String getAuthor() {
         return Constant.ZAP_TEAM;
     }
-
+    // @deepalgo
     @Override
     public void hook(ExtensionHook extensionHook) {
         super.hook(extensionHook);
